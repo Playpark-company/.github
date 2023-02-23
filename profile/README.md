@@ -2,6 +2,15 @@
 
 # 플레이파크
 
+## 메타버스 선도기업
+
+> (주)플레이파크는 국내 최초로 메타버스 대학축제 및 창립기념식을 서비스하였으며,
+> 유수의 대기업 및 공공기관과 협력해 서비스를 제공하고 있습니다.
+
+![image](https://github.com/Playpark-company/.github/blob/main/profile/metaverse.png)
+
+---
+
 ## 연혁
 
 ### PLAYPARK HISTORY
@@ -105,11 +114,15 @@
 
 </details>
 
+---
+
 ## 파트너사
 
 ### PARTNER WITH PLAYPARK
 
 ![image](https://github.com/Playpark-company/.github/blob/main/profile/partner.png)
+
+---
 
 ## 포트폴리오
 
@@ -117,12 +130,7 @@
 
 [포트폴리오](https://playparkgo.com/portfolio.html)
 
-## 메타버스 선도기업
-
-> (주)플레이파크는 국내 최초로 메타버스 대학축제 및 창립기념식을 서비스하였으며,
-> 유수의 대기업 및 공공기관과 협력해 서비스를 제공하고 있습니다.
-
-![image](https://github.com/Playpark-company/.github/blob/main/profile/metaverse.png)
+---
 
 <img src="https://github.com/Playpark-company/.github/blob/main/profile/playpark.png" style="width:200px"/><br />
 Tel. 070-4789-0033  
