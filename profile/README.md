@@ -1,6 +1,6 @@
 # 플레이파크
 
-<img src="./image/playpark.png" style="width:200px"/><br />
+<img src="./playpark.png" style="width:200px"/><br />
 
 ## 연혁
 
@@ -111,7 +111,7 @@
 
 ### PARTNER WITH PLAYPARK
 
-![image](./image/partner.png)
+![image](./partner.png)
 
 ---
 
@@ -128,11 +128,11 @@
 > (주)플레이파크는 국내 최초로 메타버스 대학축제 및 창립기념식을 서비스하였으며,
 > 유수의 대기업 및 공공기관과 협력해 서비스를 제공하고 있습니다.
 
-![image](./image/metaverse.png)
+![image](./metaverse.png)
 
 ---
 
-<img src="./image/playpark.png" style="width:200px"/><br />
+<img src="./playpark.png" style="width:200px"/><br />
 Tel. 070-4789-0033  
 Email. playparkgo@gmail.com  
 Location. 469, Dongdaegu-ro, Dong-gu, Daegu, Republic of Korea
