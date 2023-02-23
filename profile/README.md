@@ -1,6 +1,6 @@
-# 플레이파크
-
 <img src="https://github.com/Playpark-company/.github/blob/main/profile/playpark.png" style="width:200px"/><br />
+
+# 플레이파크
 
 ## 연혁
 
